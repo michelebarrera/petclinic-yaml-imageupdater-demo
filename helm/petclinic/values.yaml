@@ -1,0 +1,5 @@
+image:
+  repository: michelebarrera/petclinic-imageupdater-demo
+  tag: 1.0.0
+
+namespace: petclinic-helm
